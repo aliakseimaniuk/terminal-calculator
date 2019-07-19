@@ -40,7 +40,7 @@ public enum TokenType
 **Step 1:**
 
 ``` csharp
-// items is stack
+// items in stack
 'mult'
 'add'
 '2'
@@ -50,7 +50,7 @@ public enum TokenType
 **Step 2:**
 
 ``` csharp
-// items is stack
+// items in stack
 'mult'
 '4'
 'div'
@@ -61,7 +61,7 @@ public enum TokenType
 **Step 3:**
 
 ``` csharp
-// items is stack
+// items in stack
 'mult'
 '4'
 '3'
@@ -70,7 +70,7 @@ public enum TokenType
 **Step 4:**
 
 ``` csharp
-// items is stack
+// items in stack
 '12'
 ```
 
